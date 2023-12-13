@@ -1,0 +1,39 @@
+div{
+	width: 300px;
+	height: 200px;
+	background-color: black;
+	
+}
+.div1,.div3,.div4,.div5{
+	background-color: #1B75BB;
+}
+.div2,.div6{
+	background-color: #5F4B9E;
+}
+.div1,{
+	float: left;
+}
+.div2{
+	float: left;
+	clear: left;
+}
+.div3{
+	float: left;
+}
+.div4{
+	clear: left;
+	float: left;
+	margin-top: 30px;
+
+}
+
+.div5{
+	float: right;
+	margin-top: 10px;
+}
+.div6{
+	margin-top: 40px;
+	float: right;
+	clear: both;
+}
+
